@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="af51f118-05f5-4975-a67f-f0cc51c99c81" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1bNbi2I8wbov6JsIU2VpFZHUpIO" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Calc" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Calc" />
+      <module name="Calc" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Calc" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="af51f118-05f5-4975-a67f-f0cc51c99c81" name="Default Changelist" comment="" />
+      <created>1588475621883</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588475621883</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="247" y="62" width="816" height="654" key="#Project_Structure" timestamp="1588475786276">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="247" y="62" width="816" height="654" key="#Project_Structure/0.0.1366.768@0.0.1366.768" timestamp="1588475786276" />
+    <state x="413" y="132" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1588485528359">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="413" y="132" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1366.768@0.0.1366.768" timestamp="1588485528359" />
+    <state x="804" y="143" key="FileChooserDialogImpl" timestamp="1589638944878">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="804" y="143" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1589638944878" />
+    <state width="637" height="176" key="GridCell.Tab.0.bottom" timestamp="1589817182841">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="637" height="176" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1589817182841" />
+    <state width="637" height="176" key="GridCell.Tab.0.center" timestamp="1589817182841">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="637" height="176" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1589817182841" />
+    <state width="637" height="176" key="GridCell.Tab.0.left" timestamp="1589817182841">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="637" height="176" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1589817182841" />
+    <state width="637" height="176" key="GridCell.Tab.0.right" timestamp="1589817182841">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="637" height="176" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1589817182841" />
+    <state width="637" height="238" key="GridCell.Tab.1.bottom" timestamp="1589638957467">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="637" height="238" key="GridCell.Tab.1.bottom/0.0.1366.768@0.0.1366.768" timestamp="1589638957467" />
+    <state width="637" height="238" key="GridCell.Tab.1.center" timestamp="1589638957467">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="637" height="238" key="GridCell.Tab.1.center/0.0.1366.768@0.0.1366.768" timestamp="1589638957467" />
+    <state width="637" height="238" key="GridCell.Tab.1.left" timestamp="1589638957467">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="637" height="238" key="GridCell.Tab.1.left/0.0.1366.768@0.0.1366.768" timestamp="1589638957467" />
+    <state width="637" height="238" key="GridCell.Tab.1.right" timestamp="1589638957467">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="637" height="238" key="GridCell.Tab.1.right/0.0.1366.768@0.0.1366.768" timestamp="1589638957467" />
+    <state width="498" height="398" key="SwitcherDM" timestamp="1588475689929">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="498" height="398" key="SwitcherDM/0.0.1366.768@0.0.1366.768" timestamp="1588475689929" />
+    <state x="721" y="209" key="com.intellij.ide.util.TipDialog" timestamp="1589813196768">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="721" y="209" key="com.intellij.ide.util.TipDialog/0.0.1366.768@0.0.1366.768" timestamp="1589813196768" />
+    <state x="687" y="89" key="search.everywhere.popup" timestamp="1588475686568">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="687" y="89" key="search.everywhere.popup/0.0.1366.768@0.0.1366.768" timestamp="1588475686568" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Calc$Calc.ic" NAME="Calc Coverage Results" MODIFIED="1588485043563" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
